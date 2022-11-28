@@ -202,7 +202,7 @@ body
   {
     display: flex;
     justify-content: space-between;
-    padding-inline: 5rem;
+    padding-inline: 20rem;
     padding-block: 3rem;
   }
 }
