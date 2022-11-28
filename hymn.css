@@ -177,6 +177,14 @@ body
     text-align: center;
     justify-content: center;
   }
+  .header-desktop img
+    {
+      text-align: center;
+      justify-content: center;
+      margin-left: auto;
+      margin-right: auto;
+        }
+        
   .header-desktop h2 
   {
     font-size: 3rem;
