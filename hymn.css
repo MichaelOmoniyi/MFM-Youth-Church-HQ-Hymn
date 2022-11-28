@@ -94,7 +94,7 @@ body
   justify-items: center;
   align-items: center; 
   text-align: center; 
-  font-size: 20vw; 
+  font-size: 20px; 
   box-shadow: 7px 7px hsl(300, 43%, 60%);
 }  
 .hymn-container .last-hymn 
@@ -139,6 +139,14 @@ body
   #hymn1, #hymn3 
   {
     margin-right: 2rem;
+  }
+  .hymn-container .last-hymn 
+  {
+    font-size: 22px;
+  }
+  .hymn-container .hymn 
+  {
+    font-size: 22px;
   }
   .footer .abstract-design2
   {
@@ -219,6 +227,14 @@ body
   {
     padding-inline: 7rem;
     padding-block: 3rem;
+  }
+  .hymn-container .last-hymn 
+  {
+    font-size: 25px;
+  }
+  .hymn-container .hymn 
+  {
+    font-size: 25px;
   }
   .hymn-container h3 
     {
