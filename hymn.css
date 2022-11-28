@@ -69,6 +69,7 @@ body
 }
 .hymn-container
 {
+  display: grid;
   background-color: hsl(300, 43%, 50%);
   padding-inline: 2rem; 
   padding-block: 1rem;
