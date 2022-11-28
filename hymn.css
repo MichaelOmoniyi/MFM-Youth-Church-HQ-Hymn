@@ -32,7 +32,7 @@ body
 .header-mobile-tablet #youthhqlogo
 {
   max-width: 100%; 
-  animation: header-mobile-tablet 7s ease 2s infinite alternate;
+  animation: header-mobile-tablet 7s ease 5s infinite alternate;
   margin-bottom: 1rem; 
   margin-top: 1rem;
 }
@@ -186,7 +186,7 @@ body
   .header-desktop #youthhqlogo
   {
     max-width: 100%; 
-    animation: header-desktop 7s ease 2s infinite alternate;
+    animation: header-desktop 7s ease 5s infinite alternate;
     margin-bottom: 1rem; 
     margin-top: 1rem;
     margin-left: auto;
