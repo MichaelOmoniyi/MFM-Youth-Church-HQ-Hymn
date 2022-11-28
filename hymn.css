@@ -131,6 +131,14 @@ body
 }
 @media (min-width: 1440px) 
 {
+    .hymn-sub-container
+  {
+    display: grid;
+    grid-template-columns: auto auto;
+  }
+}
+@media (min-width: 1440px) 
+{
   .header-mobile-tablet 
   {
     display: none;
