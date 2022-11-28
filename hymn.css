@@ -179,7 +179,9 @@ body
   }
   .header-desktop h2 
   {
-    font-size: 2rem;
+    font-size: 3rem;
+    text-align: center;
+    justify-content: center;
     margin-left: auto;
     margin-right: auto;
     margin-top: auto;
@@ -211,6 +213,9 @@ body
       margin-left: 0px;
       margin-right: 0px;
     }
+   #hymn3
+    {
+        margin-left: 0px;
   .footer #abstract-design2
   {
     display: inline-block;
