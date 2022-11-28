@@ -55,7 +55,9 @@ body
 {
   font-size: 2rem;
   margin-left: auto;
-  margin-right: auto; 
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 .sub-mobile-tablet img
 {
@@ -168,7 +170,9 @@ body
   {
     font-size: 2rem;
     margin-left: auto;
-    margin-right: auto; 
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
   }
   .header-desktop #abstract-design
   {
@@ -181,7 +185,8 @@ body
   }
   .hymn-sub-container
   {
-    grid-auto-columns: auto auto;
+    display: grid;
+    grid-template-columns: auto auto;
   } 
   .hymn 
   {
@@ -196,5 +201,7 @@ body
   {
     display: flex;
     justify-content: space-between;
+    padding-inline: 5rem;
+    padding-block: 3rem;
   }
 }
