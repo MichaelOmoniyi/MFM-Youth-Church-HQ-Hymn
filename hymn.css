@@ -124,7 +124,7 @@ body
   padding: 2rem; 
   padding-inline: auto;
 }
-.footer #abstract-design2
+.footer .abstract-design2
 {
   display: none;
 }
@@ -140,7 +140,7 @@ body
   {
     margin-right: 2rem;
   }
-  .footer #abstract-design2
+  .footer .abstract-design2
   {
     display: block;
   }
@@ -249,7 +249,7 @@ body
    #hymn3
     {
         margin-left: 0px;
-  .footer #abstract-design2
+  .footer .abstract-design2
   {
     display: block;
   }
