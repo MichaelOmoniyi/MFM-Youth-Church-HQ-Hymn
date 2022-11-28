@@ -206,9 +206,10 @@ body
     margin: 2rem;
     font-size: 3rem;
   }
-  #hymn1, #hymn2
+  #hymn1, #hymn4
   {
-      margin: 0px;
+      margin-left: 0px;
+      margin-right: 0px;
     }
   .footer #abstract-design2
   {
