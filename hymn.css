@@ -54,7 +54,7 @@ body
 .sub-mobile-tablet h2 
 {
   font-size: 2rem;
-  margin-left: auto;
+  margin-left: 3rem;
   margin-right: auto;
   margin-top: auto;
   margin-bottom: auto;
@@ -182,7 +182,7 @@ body
     font-size: 3rem;
     text-align: center;
     justify-content: center;
-    margin-left: auto;
+    margin-left: 5rem;
     margin-right: auto;
     margin-top: auto;
     margin-bottom: auto;
