@@ -135,6 +135,10 @@ body
     display: grid;
     grid-template-columns: auto auto;
   }
+  #hymn1, #hymn3 
+  {
+    margin-right: 2rem;
+  }
 }
 @media (min-width: 1440px) 
 {
