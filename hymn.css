@@ -80,7 +80,6 @@ body
   text-align: center;
   justify-content: center;
   margin-inline: auto;
-  margin-right: 1rem;
   margin-bottom: 1rem;
   font-weight: bold;
   font-size: 1.5rem;
@@ -129,7 +128,7 @@ body
 {
   display: none;
 }
-@media (min-width: 1440px) 
+@media (min-width: 720px) 
 {
     .hymn-sub-container
   {
@@ -204,6 +203,15 @@ body
     padding-inline: 7rem;
     padding-block: 3rem;
   }
+  .hymn-container h3 
+    {
+     text-align: center;
+     justify-content: center;
+     margin-inline: auto;
+     margin-bottom: 1rem;
+    font-weight: bold;
+    font-size: 2rem;
+    }
   .hymn-sub-container
   {
     display: grid;
